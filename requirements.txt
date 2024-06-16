@@ -6,3 +6,4 @@ matplotlib
 math
 XlsxWriter
 mypy
+jupyter
