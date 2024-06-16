@@ -2,6 +2,7 @@
 
 This is a quick intro to Python with Anaconda on Windows.
 
+---
 ### Dependencies
 
 1. [Anaconda](https://www.anaconda.com/) (optional, but recommended)
@@ -10,6 +11,7 @@ This is a quick intro to Python with Anaconda on Windows.
 4. jupyter (comes with anaconda)
 5. [git](https://git-scm.com/download/win)
 
+---
 ### Setup 101
 
 Set up a python virtual environment, aka. venv - let's name it `myenv`:
@@ -52,17 +54,20 @@ or this:
 it might mean that the path variable for jupyter/python has not been configured properly.
 Follow [this guide](https://medium.com/@viknesh2798/how-to-fix-the-issues-while-using-python-command-in-the-command-prompt-ba56d9018c5f#:~:text=This%20is%20because%2C%20the%20windows,the%20python%20from%20command%20line.) to trouble shoot.
 
+---
 ### (Personal) Recommended IDEs for python!
 
 - jupyter lab
 - PyCharm
 - vscode
 
+---
 ### Other productivity tools to explore in the future
 
 - [Github desktop](https://desktop.github.com/)
 - [vscode](https://code.visualstudio.com/)
 
+---
 ### References
 
 - [Installing Anaconda](https://www.anaconda.com/)
