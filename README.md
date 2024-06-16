@@ -65,4 +65,5 @@ Follow [this guide](https://medium.com/@viknesh2798/how-to-fix-the-issues-while-
 - [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 - [Jupyter notebook/lab review](https://www.reviewnb.com/)
 - [Git for windows](https://git-scm.com/download/win)
+- [Git command cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
