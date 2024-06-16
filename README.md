@@ -12,27 +12,31 @@ This is a quick intro to Python with Anaconda on Windows.
 
 ### Setup 101
 
-1. Set up a python virtual environment, aka. venv - let's name it `myenv`:
+Set up a python virtual environment, aka. venv - let's name it `myenv`:
 
 ```
 conda create --name myenv
 ```
 
-2. Activate your venv
+Activate your venv
 
 ```
 activate myenv
 ```
 
-3. Install relevant python packages into your venv
+Install relevant python packages into your venv
 
 ```
 pip install -r requirements.txt
 ```
 
-3. Let's try to run some code!
-
-Easiest way to start is to use [Jupyter lab](https://jupyterlab.readthedocs.io/en/latest/)
+Let's try to run some code! Easiest way to start is to use [Jupyter lab](https://jupyterlab.readthedocs.io/en/latest/).
+Before we do that, we need to add our venv to jupyter:
+```
+conda install ipykernel
+ipython kernel install --user --name=<any_name_for_kernel>
+```
+Let's launch jupyter lab now:
 ```
 jupyter lab
 ```
